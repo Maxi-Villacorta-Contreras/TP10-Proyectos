@@ -1,0 +1,9 @@
+C:\Users\nmnmm\Desktop\TP10-PROYECTOS-MaxiV.C\Ejercicio4\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csprojResolveAssemblyReference.cache
+C:\Users\nmnmm\Desktop\TP10-PROYECTOS-MaxiV.C\Ejercicio4\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.Form1.resources
+C:\Users\nmnmm\Desktop\TP10-PROYECTOS-MaxiV.C\Ejercicio4\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.Properties.Resources.resources
+C:\Users\nmnmm\Desktop\TP10-PROYECTOS-MaxiV.C\Ejercicio4\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.GenerateResource.Cache
+C:\Users\nmnmm\Desktop\TP10-PROYECTOS-MaxiV.C\Ejercicio4\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\nmnmm\Desktop\TP10-PROYECTOS-MaxiV.C\Ejercicio4\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\nmnmm\Desktop\TP10-PROYECTOS-MaxiV.C\Ejercicio4\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\nmnmm\Desktop\TP10-PROYECTOS-MaxiV.C\Ejercicio4\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\nmnmm\Desktop\TP10-PROYECTOS-MaxiV.C\Ejercicio4\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
